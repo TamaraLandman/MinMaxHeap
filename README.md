@@ -87,5 +87,5 @@ This project includes unit tests to ensure correctness.
 ---
 
 ## AI Usage
-- This min-max heap implementation was made fully indipendant of AI. Unit tests and the Read-Me file were created with the use of AI.
+- This min-max heap implementation was made fully independant of AI. Unit tests and the Read-Me file were created with the use of AI.
 
